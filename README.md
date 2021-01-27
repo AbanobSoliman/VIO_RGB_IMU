@@ -1,5 +1,5 @@
 # RGB-IMU FUSION FRAMEWORK IN APPLICATION OF AGENTS LOCALIZATION IN CHALLENGING ENVIRONMENTS
-![Alt text](./3.png?raw=true "Body & Inertial Frames") \
+![Alt text](./cover.png?raw=true "Body & Inertial Frames") \
 In order to apply the Error-states Extended Kalman Filter Fusion framework: 
 - Add the dataset from [TUM VIO datasets website](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) to the folder of path: "tum_dataset\dataset_folder_name" .
 - Add the path of the "src" and "tum_dataset\dataset_folder_name" folders to your Matlab directory.
